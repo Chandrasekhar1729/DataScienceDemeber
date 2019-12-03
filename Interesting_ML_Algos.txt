@@ -5,12 +5,12 @@
 5. Bagging Vs Boosting 
 6. AUC
 7. Feature selection techniques
-8.
-9.
-10.
-11.
-12.
-13.
-14.
+8. SVM 
+9. Hypothesis testing concepts 
+10. Multivariate Regression
+11. Bias Variance tradeoff
+12. Random forests 
+13. DeepNets Tuning / Hyperparameters 
+14. 
 15.
 
